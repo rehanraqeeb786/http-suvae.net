@@ -1,0 +1,2685 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="sitemap.css"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://Quaderno.io/</loc>
+    <lastmod>2024-11-08T12:37:01.101Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/contact/</loc>
+    <lastmod>2024-11-08T12:37:01.101Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/contact/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/contacto/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/contact-sales/</loc>
+    <lastmod>2024-11-08T12:37:01.101Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/contact-sales/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/contacto-ventas/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/customers/</loc>
+    <lastmod>2024-11-08T12:37:01.101Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/customers/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/clientes/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/pricing/</loc>
+    <lastmod>2024-11-08T12:37:01.101Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/pricing/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/precios/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/sales-tax-calculator/</loc>
+    <lastmod>2024-11-08T12:37:01.101Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/sales-tax-calculator/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/calculadora-iva/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/api/</loc>
+    <lastmod>2024-11-08T12:37:01.101Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/api/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/api/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/about-Quaderno/</loc>
+    <lastmod>2024-11-08T12:40:44.120Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/about-Quaderno/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/nosotros/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/affiliates/</loc>
+    <lastmod>2024-11-08T12:40:44.120Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/affiliates/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/afiliados/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/sustainability/</loc>
+    <lastmod>2024-11-08T12:40:44.120Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/sustainability/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/sostenibilidad/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/jobs/</loc>
+    <lastmod>2024-11-08T12:40:44.120Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/jobs/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/empleo/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/integrations/</loc>
+    <lastmod>2024-11-08T12:40:45.558Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/integrations/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/integraciones/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/integrations/accessally/</loc>
+    <lastmod>2024-11-08T12:40:44.120Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/integrations/accessally/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/integraciones/accessally/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/integrations/amazon-fba/</loc>
+    <lastmod>2024-11-08T12:40:44.120Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/integrations/amazon-fba/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/integraciones/amazon-fba/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/integrations/braintree/</loc>
+    <lastmod>2024-11-08T12:40:44.120Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/integrations/braintree/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/integraciones/braintree/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/integrations/clickfunnels/</loc>
+    <lastmod>2024-11-08T12:40:44.120Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/integrations/clickfunnels/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/integraciones/clickfunnels/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/integrations/easy-digital-downloads/</loc>
+    <lastmod>2024-11-08T12:40:44.120Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/integrations/easy-digital-downloads/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/integraciones/easy-digital-downloads/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/integrations/gocardless/</loc>
+    <lastmod>2024-11-08T12:40:44.120Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/integrations/gocardless/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/integraciones/gocardless/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/integrations/jotform/</loc>
+    <lastmod>2024-11-08T12:40:44.121Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/integrations/jotform/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/integraciones/jotform/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/integrations/kajabi/</loc>
+    <lastmod>2024-11-08T12:40:44.121Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/integrations/kajabi/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/integraciones/kajabi/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/integrations/learnworlds/</loc>
+    <lastmod>2024-11-08T12:40:44.121Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/integrations/learnworlds/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/integraciones/learnworlds/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/integrations/mighty-networks/</loc>
+    <lastmod>2024-11-08T12:40:44.121Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/integrations/mighty-networks/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/integraciones/mighty-networks/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/integrations/paypal/</loc>
+    <lastmod>2024-11-08T12:40:44.121Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/integrations/paypal/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/integraciones/paypal/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/integrations/s2member/</loc>
+    <lastmod>2024-11-08T12:40:44.121Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/integrations/s2member/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/integraciones/s2member/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/integrations/sendowl/</loc>
+    <lastmod>2024-11-08T12:40:44.121Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/integrations/sendowl/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/integraciones/sendowl/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/integrations/shopify/</loc>
+    <lastmod>2024-11-08T12:40:44.121Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/integrations/shopify/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/integraciones/shopify/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/integrations/square/</loc>
+    <lastmod>2024-11-08T12:40:44.121Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/integrations/square/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/integraciones/square/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/integrations/stripe/</loc>
+    <lastmod>2024-11-08T12:40:44.121Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/integrations/stripe/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/integraciones/stripe/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/integrations/teachable/</loc>
+    <lastmod>2024-11-08T12:40:44.121Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/integrations/teachable/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/integraciones/teachable/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/integrations/thinkific/</loc>
+    <lastmod>2024-11-08T12:40:44.121Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/integrations/thinkific/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/integraciones/thinkific/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/es/integraciones/ticketbai/</loc>
+    <lastmod>2024-11-08T12:40:44.121Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/integraciones/ticketbai/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/integrations/woocommerce-uk-vat/</loc>
+    <lastmod>2024-11-08T12:40:44.121Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/integrations/woocommerce-uk-vat/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/integrations/woocommerce/</loc>
+    <lastmod>2024-11-08T12:40:44.121Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/integrations/woocommerce/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/integraciones/woocommerce/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/integrations/xero/</loc>
+    <lastmod>2024-11-08T12:40:44.121Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/integrations/xero/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/integraciones/xero/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/integrations/zapier/</loc>
+    <lastmod>2024-11-08T12:40:44.121Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/integrations/zapier/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/integraciones/zapier/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/legal/</loc>
+    <lastmod>2024-11-08T12:40:45.558Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/legal/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/legal/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/legal/cookies/</loc>
+    <lastmod>2024-11-08T12:40:44.121Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/legal/cookies/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/legal/cookies/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/legal/dpa/</loc>
+    <lastmod>2024-11-08T12:40:44.121Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/legal/dpa/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/legal/apd/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/legal/privacy/</loc>
+    <lastmod>2024-11-08T12:40:44.121Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/legal/privacy/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/legal/privacidad/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/legal/security/</loc>
+    <lastmod>2024-11-08T12:40:44.121Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/legal/security/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/legal/seguridad/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/legal/sla/</loc>
+    <lastmod>2024-11-08T12:40:44.121Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/legal/sla/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/legal/sla/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/legal/terms/</loc>
+    <lastmod>2024-11-08T12:40:44.121Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/legal/terms/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/legal/condiciones/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/registration/</loc>
+    <lastmod>2024-11-08T12:40:44.121Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/registration/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/registro/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/calculation/</loc>
+    <lastmod>2024-11-08T12:40:44.121Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/calculation/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/calculo-de-impuestos/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/reporting-filing/</loc>
+    <lastmod>2024-11-08T12:40:44.121Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/reporting-filing/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/informes-declaraciones/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/invoicing/</loc>
+    <lastmod>2024-11-08T12:40:44.121Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/invoicing/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/facturacion/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/checkout/</loc>
+    <lastmod>2024-11-08T12:40:44.121Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/checkout/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/checkout/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/connect/</loc>
+    <lastmod>2024-11-08T12:40:44.121Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/connect/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/connect/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/solutions/digital-creators/</loc>
+    <lastmod>2024-11-08T12:40:44.121Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/solutions/digital-creators/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/soluciones/creadores-digitales/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/solutions/ecommerce/</loc>
+    <lastmod>2024-11-08T12:40:44.121Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/solutions/ecommerce/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/soluciones/comercio-electronico/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/solutions/platforms-and-marketplaces/</loc>
+    <lastmod>2024-11-08T12:40:44.121Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/solutions/platforms-and-marketplaces/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/soluciones/plataformas-marketplaces/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/solutions/saas/</loc>
+    <lastmod>2024-11-08T12:40:44.121Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/solutions/saas/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/soluciones/saas/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/</loc>
+    <lastmod>2024-11-08T12:40:45.558Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/articulos/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/automated-billing-subscription-business/</loc>
+    <lastmod>2024-02-20T14:53:24.677Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/automated-billing-subscription-business/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/9-accounting-mistakes-risk-business/</loc>
+    <lastmod>2024-02-21T08:27:35.030Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/9-accounting-mistakes-risk-business/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/automatic-invoicing-for-click-funnels/</loc>
+    <lastmod>2023-07-25T17:32:54.995Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/automatic-invoicing-for-click-funnels/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/automatic-invoicing-for-kajabi/</loc>
+    <lastmod>2024-05-27T16:52:58.687Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/automatic-invoicing-for-kajabi/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/accounting-hacks-painless-small-business-bookkeeping/</loc>
+    <lastmod>2023-07-25T17:33:09.331Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/accounting-hacks-painless-small-business-bookkeeping/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/es/articulos/modelo-347/</loc>
+    <lastmod>2024-09-13T10:09:03.909Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/articulos/modelo-347/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/automatic-invoicing-for-s2member/</loc>
+    <lastmod>2023-07-25T17:33:18.803Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/automatic-invoicing-for-s2member/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/electronic-invoicing-portugal/</loc>
+    <lastmod>2024-03-28T11:34:04.330Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/electronic-invoicing-portugal/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/cross-border-ecommerce/</loc>
+    <lastmod>2024-11-06T12:32:48.446Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/cross-border-ecommerce/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/ecommerce-growth-strategy/</loc>
+    <lastmod>2024-05-18T08:53:29.975Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/ecommerce-growth-strategy/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/online-marketplace-tax-laws-around-the-world/</loc>
+    <lastmod>2023-09-27T09:11:07.352Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/online-marketplace-tax-laws-around-the-world/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/amazon-fba-sales-tax/</loc>
+    <lastmod>2023-09-27T09:14:26.328Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/amazon-fba-sales-tax/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/5-best-practices-for-selling-to-international-customers-online/</loc>
+    <lastmod>2024-04-24T06:16:26.559Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/5-best-practices-for-selling-to-international-customers-online/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/automate-invoices/</loc>
+    <lastmod>2024-09-20T09:20:33.234Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/automate-invoices/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/saas-tools-businesses/</loc>
+    <lastmod>2024-07-19T09:23:58.602Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/saas-tools-businesses/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/most-common-types-invoices/</loc>
+    <lastmod>2023-12-01T14:54:45.495Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/most-common-types-invoices/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/es/articulos/modelo-036/</loc>
+    <lastmod>2024-10-11T11:25:31.174Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/articulos/modelo-036/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/es/articulos/integracion-con-tienda-online-de-shopify/</loc>
+    <lastmod>2024-03-04T08:41:20.409Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/articulos/integracion-con-tienda-online-de-shopify/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/changelog/</loc>
+    <lastmod>2024-09-13T11:48:33.863Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/changelog/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/can-business-automation-create-better-customer-experiences/</loc>
+    <lastmod>2024-07-19T09:46:01.067Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/can-business-automation-create-better-customer-experiences/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/business-ready-new-eu-2015-vat-rules/</loc>
+    <lastmod>2023-08-14T03:25:44.950Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/business-ready-new-eu-2015-vat-rules/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/what-is-gst-and-which-countries-have-it/</loc>
+    <lastmod>2024-05-17T15:48:55.875Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/what-is-gst-and-which-countries-have-it/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/e-invoicing/</loc>
+    <lastmod>2024-06-06T21:04:15.336Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/e-invoicing/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/choose-right-accounting-software-business/</loc>
+    <lastmod>2024-06-17T11:09:48.946Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/choose-right-accounting-software-business/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/difference-accounting-bookkeeping/</loc>
+    <lastmod>2024-09-20T09:22:11.217Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/difference-accounting-bookkeeping/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/what-is-vies/</loc>
+    <lastmod>2024-08-28T14:06:15.122Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/what-is-vies/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/es/articulos/como-ser-autonomo-espana/</loc>
+    <lastmod>2024-10-08T09:59:09.466Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/articulos/como-ser-autonomo-espana/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/es/articulos/partes-de-una-factura/</loc>
+    <lastmod>2024-10-23T13:26:59.120Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/articulos/partes-de-una-factura/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/digital-sales-tax-canada/</loc>
+    <lastmod>2023-12-15T07:20:40.583Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/digital-sales-tax-canada/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/use-dropbox-accounting-help-business/</loc>
+    <lastmod>2023-12-20T10:06:57.121Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/use-dropbox-accounting-help-business/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/how-chatbots-grow-online-business/</loc>
+    <lastmod>2024-03-27T08:23:05.836Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/how-chatbots-grow-online-business/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/digital-taxes-around-world-know-new-tax-rules/</loc>
+    <lastmod>2024-05-27T21:48:38.500Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/digital-taxes-around-world-know-new-tax-rules/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/digital-products/</loc>
+    <lastmod>2024-02-09T10:38:02.798Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/digital-products/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/distance-selling-eu-right/</loc>
+    <lastmod>2023-09-04T09:49:20.379Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/distance-selling-eu-right/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/e-commerce-eu-vat-changes-in-2021-the-brand-new-ioss/</loc>
+    <lastmod>2023-09-04T09:51:36.434Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/e-commerce-eu-vat-changes-in-2021-the-brand-new-ioss/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/how-does-the-reverse-charge-mechanism-work/</loc>
+    <lastmod>2024-01-26T10:59:43.406Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/how-does-the-reverse-charge-mechanism-work/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/eu-vat-remote-sellers/</loc>
+    <lastmod>2024-03-07T12:14:58.765Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/eu-vat-remote-sellers/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/digitalization-of-taxes/</loc>
+    <lastmod>2024-03-08T10:25:04.230Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/digitalization-of-taxes/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/top-course-creation-software/</loc>
+    <lastmod>2024-04-16T12:36:31.425Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/top-course-creation-software/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/how-new-eu-vat-rules-for-online-marketplaces-affect-your-business/</loc>
+    <lastmod>2023-09-27T09:05:50.627Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/how-new-eu-vat-rules-for-online-marketplaces-affect-your-business/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/es/articulos/modelo-360/</loc>
+    <lastmod>2024-07-23T11:01:32.525Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/articulos/modelo-360/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/automated-accounting/</loc>
+    <lastmod>2024-10-25T09:44:47.942Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/automated-accounting/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/es/articulos/programas-facturacion/</loc>
+    <lastmod>2024-09-27T10:34:06.015Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/articulos/programas-facturacion/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/how-a-silly-landing-brought-us-more-traffic/</loc>
+    <lastmod>2023-12-01T09:52:46.860Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/how-a-silly-landing-brought-us-more-traffic/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/how-credit-card-payments-work/</loc>
+    <lastmod>2023-12-01T09:59:47.815Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/how-credit-card-payments-work/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/es/articulos/iva-para-productos-digitales-en-los-ee-uu/</loc>
+    <lastmod>2023-12-22T12:43:13.186Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/articulos/iva-para-productos-digitales-en-los-ee-uu/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/how-to-build-your-own-business-in-the-creator-economy/</loc>
+    <lastmod>2023-09-27T09:36:50.949Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/how-to-build-your-own-business-in-the-creator-economy/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/sales-tax-discounted-goods/</loc>
+    <lastmod>2024-01-24T15:38:08.781Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/sales-tax-discounted-goods/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/how-to-use-revenue-recognition-in-your-business/</loc>
+    <lastmod>2024-01-24T15:39:05.491Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/how-to-use-revenue-recognition-in-your-business/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/es/articulos/ley-antifraude-facturacion/</loc>
+    <lastmod>2024-03-15T14:00:00.263Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/articulos/ley-antifraude-facturacion/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/how-to-validate-vat-numbers-using-woocommerce/</loc>
+    <lastmod>2023-10-12T09:34:37.716Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/how-to-validate-vat-numbers-using-woocommerce/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/es/articulos/como-presentar-declaracion-renta/</loc>
+    <lastmod>2024-07-26T18:14:48.133Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/articulos/como-presentar-declaracion-renta/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/how-to-handle-customer-chargebacks/</loc>
+    <lastmod>2023-11-13T10:07:59.607Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/how-to-handle-customer-chargebacks/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/es/articulos/plataformas-ecommerce/</loc>
+    <lastmod>2024-10-25T09:39:14.004Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/articulos/plataformas-ecommerce/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/how-to-handle-eu-vat-if-you-use-amazon-fba/</loc>
+    <lastmod>2023-11-17T12:22:17.991Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/how-to-handle-eu-vat-if-you-use-amazon-fba/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/digital-business-owners-minimising-tax-obligations/</loc>
+    <lastmod>2023-08-07T13:09:16.753Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/digital-business-owners-minimising-tax-obligations/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/talking-about-bootstrapping/</loc>
+    <lastmod>2023-08-14T03:41:12.704Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/talking-about-bootstrapping/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/sales-tax-compliance-by-state/</loc>
+    <lastmod>2024-07-09T13:09:52.515Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/sales-tax-compliance-by-state/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/small-business-tax-deductions/</loc>
+    <lastmod>2024-07-12T08:27:07.195Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/small-business-tax-deductions/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/advantages-disadvantages-pricing-saas-products-inclusive-taxes/</loc>
+    <lastmod>2023-08-14T03:52:40.364Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/advantages-disadvantages-pricing-saas-products-inclusive-taxes/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/3-keys-to-saas-growth-in-2021-and-beyond/</loc>
+    <lastmod>2023-07-19T00:55:56.593Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/3-keys-to-saas-growth-in-2021-and-beyond/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/digital-business-owners-guide-refunds/</loc>
+    <lastmod>2024-05-03T07:20:39.499Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/digital-business-owners-guide-refunds/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/9-mistakes-avoid-filing-vat/</loc>
+    <lastmod>2023-07-26T19:05:11.532Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/9-mistakes-avoid-filing-vat/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/2019-vat-thresholds-ease-burden-on-eu-digital-businesses/</loc>
+    <lastmod>2023-07-26T19:05:12.236Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/2019-vat-thresholds-ease-burden-on-eu-digital-businesses/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/making-tax-digital-how-to-follow-uks-new-vat-guidelines/</loc>
+    <lastmod>2024-07-23T12:25:20.269Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/making-tax-digital-how-to-follow-uks-new-vat-guidelines/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/es/articulos/que-es-el-iva/</loc>
+    <lastmod>2024-08-02T09:59:38.993Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/articulos/que-es-el-iva/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/2021-brexit-guide-for-eu-vat-uk-based-sellers/</loc>
+    <lastmod>2024-01-24T15:37:26.769Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/2021-brexit-guide-for-eu-vat-uk-based-sellers/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/2021-brexit-guide-for-uk-vat-for-eu-and-worldwide-sellers/</loc>
+    <lastmod>2024-03-13T12:02:42.336Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/2021-brexit-guide-for-uk-vat-for-eu-and-worldwide-sellers/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/automate-your-business-with-zapier/</loc>
+    <lastmod>2023-07-25T17:32:44.567Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/automate-your-business-with-zapier/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/3-essential-sales-reports-to-help-you-skyrocket-your-online-business/</loc>
+    <lastmod>2023-07-26T19:05:14.843Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/3-essential-sales-reports-to-help-you-skyrocket-your-online-business/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/es/articulos/declaracion-renta-autonomos-paso-a-paso/</loc>
+    <lastmod>2024-08-09T13:25:42.847Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/articulos/declaracion-renta-autonomos-paso-a-paso/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/automatic-tax-calculation-for-online-courses-and-memberships/</loc>
+    <lastmod>2023-07-19T23:00:39.697Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/automatic-tax-calculation-for-online-courses-and-memberships/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/create-your-profit-forecast-easy-way/</loc>
+    <lastmod>2023-08-04T03:00:15.389Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/create-your-profit-forecast-easy-way/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/automatic-tax-calculation-for-online-courses-with-learnworlds/</loc>
+    <lastmod>2023-07-19T23:00:55.293Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/automatic-tax-calculation-for-online-courses-with-learnworlds/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/es/articulos/verifactu/</loc>
+    <lastmod>2024-04-16T17:06:50.842Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/articulos/verifactu/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/es/articulos/que-es-ticketbai/</loc>
+    <lastmod>2024-04-30T17:29:28.729Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/articulos/que-es-ticketbai/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/customer-experience-in-ecommerce-what-to-do-after-the-sale/</loc>
+    <lastmod>2024-08-06T08:21:30.907Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/customer-experience-in-ecommerce-what-to-do-after-the-sale/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/new-feature-stripe-refunds/</loc>
+    <lastmod>2023-07-25T17:32:49.501Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/new-feature-stripe-refunds/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/calculate-taxes-easy-digital-downloads/</loc>
+    <lastmod>2023-08-14T02:55:20.235Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/calculate-taxes-easy-digital-downloads/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/core-accounting-concepts-and-metrics-for-saas-businesses/</loc>
+    <lastmod>2023-08-07T13:31:38.726Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/core-accounting-concepts-and-metrics-for-saas-businesses/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/calculate-sales-tax-selling-on-amazon/</loc>
+    <lastmod>2023-08-14T02:54:57.647Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/calculate-sales-tax-selling-on-amazon/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/electronic-invoicing-France/</loc>
+    <lastmod>2024-03-29T09:48:12.528Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/electronic-invoicing-France/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/definitions-the-various-us-sales-tax-nexus/</loc>
+    <lastmod>2024-09-24T10:46:21.678Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/definitions-the-various-us-sales-tax-nexus/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/design-remote-business/</loc>
+    <lastmod>2023-08-14T02:57:35.944Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/design-remote-business/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/digital-business-owner-look-payment-provider/</loc>
+    <lastmod>2024-04-16T12:40:58.601Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/digital-business-owner-look-payment-provider/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/colorado-sales-tax-in-a-nutshell/</loc>
+    <lastmod>2023-07-20T01:13:22.577Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/colorado-sales-tax-in-a-nutshell/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/cash-flow-for-ecommerce-10-tips-to-get-your-money-right/</loc>
+    <lastmod>2023-07-26T19:05:18.248Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/cash-flow-for-ecommerce-10-tips-to-get-your-money-right/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/electronic-invoicing-spain/</loc>
+    <lastmod>2024-02-19T11:48:25.721Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/electronic-invoicing-spain/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/finance-automation/</loc>
+    <lastmod>2024-07-17T08:53:43.034Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/finance-automation/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/es/articulos/negocios-que-funcionan-solos/</loc>
+    <lastmod>2024-08-09T13:25:38.922Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/articulos/negocios-que-funcionan-solos/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/es/articulos/fiscalizacion-espana/</loc>
+    <lastmod>2024-04-26T08:30:39.117Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/articulos/fiscalizacion-espana/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/cash-flow-planning-saas-business/</loc>
+    <lastmod>2023-07-26T19:05:21.364Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/cash-flow-planning-saas-business/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/recurring-revenue-model-right-digital-business/</loc>
+    <lastmod>2023-10-13T07:11:50.823Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/recurring-revenue-model-right-digital-business/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/really-need-adjust-invoicing-country-business/</loc>
+    <lastmod>2023-10-13T07:13:25.634Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/really-need-adjust-invoicing-country-business/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/es/articulos/como-calcular-iva-factura/</loc>
+    <lastmod>2024-08-16T12:11:59.700Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/articulos/como-calcular-iva-factura/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/sales-tax-101-canadian-startups/</loc>
+    <lastmod>2023-11-20T11:19:05.667Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/sales-tax-101-canadian-startups/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/what-is-a-tax-exemption-certificate/</loc>
+    <lastmod>2023-11-24T09:29:05.740Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/what-is-a-tax-exemption-certificate/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/sales-tax-digital-products-us/</loc>
+    <lastmod>2024-08-28T14:03:57.903Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/sales-tax-digital-products-us/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/merchant-of-record-pros-cons/</loc>
+    <lastmod>2024-03-18T13:10:05.623Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/merchant-of-record-pros-cons/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/digital-reporting-requirements-eu/</loc>
+    <lastmod>2024-05-03T16:10:23.563Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/digital-reporting-requirements-eu/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/tasks-ecommerce-should-automate/</loc>
+    <lastmod>2024-10-31T10:12:55.530Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/tasks-ecommerce-should-automate/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/the-rise-of-e-commerce-tax-laws-and-what-platforms-should-expect/</loc>
+    <lastmod>2024-07-25T11:00:42.632Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/the-rise-of-e-commerce-tax-laws-and-what-platforms-should-expect/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/vat-cesop-directive/</loc>
+    <lastmod>2024-03-07T12:08:32.158Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/vat-cesop-directive/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/eu-vat-guide/</loc>
+    <lastmod>2023-08-14T03:59:02.427Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/eu-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/es/articulos/optimizar-proceso-compras-online/</loc>
+    <lastmod>2024-03-15T07:17:46.226Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/articulos/optimizar-proceso-compras-online/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/digital-nomads-have-you-set-your-business-up-in-hong-kong/</loc>
+    <lastmod>2024-04-03T09:34:04.246Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/digital-nomads-have-you-set-your-business-up-in-hong-kong/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/es/articulos/nif-intracomunitario/</loc>
+    <lastmod>2024-08-23T15:19:44.658Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/articulos/nif-intracomunitario/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/vat-gst-sales-consumption-tax/</loc>
+    <lastmod>2024-05-03T16:19:26.380Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/vat-gst-sales-consumption-tax/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/es/articulos/factura-electronica-obligatoria-espana/</loc>
+    <lastmod>2024-08-28T14:09:28.025Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/articulos/factura-electronica-obligatoria-espana/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/what-is-a-tax-registration-threshold/</loc>
+    <lastmod>2023-09-26T11:00:27.104Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/what-is-a-tax-registration-threshold/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/how-accrual-accounting-benefits-saas-and-subscriptions/</loc>
+    <lastmod>2023-08-14T04:42:14.228Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/how-accrual-accounting-benefits-saas-and-subscriptions/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/vat-vs-sales-tax/</loc>
+    <lastmod>2023-08-14T03:25:24.319Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/vat-vs-sales-tax/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/es/articulos/vies/</loc>
+    <lastmod>2024-09-13T09:46:20.362Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/articulos/vies/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/us-sales-tax-for-ecommerce-how-to-comply/</loc>
+    <lastmod>2024-03-27T08:09:50.994Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/us-sales-tax-for-ecommerce-how-to-comply/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/how-start-online-business/</loc>
+    <lastmod>2024-04-22T07:20:37.949Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/how-start-online-business/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/eu-vat-identification-number/</loc>
+    <lastmod>2024-08-01T08:02:55.824Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/eu-vat-identification-number/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/sales-tax-compliance-outsourcing/</loc>
+    <lastmod>2024-09-06T13:54:37.550Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/sales-tax-compliance-outsourcing/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/whats-accountant-talking-jargon-explained/</loc>
+    <lastmod>2023-07-26T19:06:37.052Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/whats-accountant-talking-jargon-explained/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/es/articulos/darse-alta-autonomo-espana/</loc>
+    <lastmod>2023-12-07T10:55:36.980Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/articulos/darse-alta-autonomo-espana/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/digital-taxes-australias-gst/</loc>
+    <lastmod>2023-08-07T13:13:06.419Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/digital-taxes-australias-gst/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/how-to-choose-a-payment-gateway-for-your-business/</loc>
+    <lastmod>2024-05-17T07:44:18.359Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/how-to-choose-a-payment-gateway-for-your-business/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/how-do-you-calculate-sales-tax-if-youre-a-remote-seller/</loc>
+    <lastmod>2023-08-14T02:52:18.042Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/how-do-you-calculate-sales-tax-if-youre-a-remote-seller/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/increase-conversion-rates-checkout/</loc>
+    <lastmod>2024-07-30T12:35:45.048Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/increase-conversion-rates-checkout/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/do-i-need-to-collect-sales-tax-for-selling-online/</loc>
+    <lastmod>2024-04-03T09:32:08.268Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/do-i-need-to-collect-sales-tax-for-selling-online/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/disadvantages-paypal-for-subscriptions/</loc>
+    <lastmod>2023-08-07T13:15:30.956Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/disadvantages-paypal-for-subscriptions/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/everything-you-need-to-know-about-gst/</loc>
+    <lastmod>2023-08-07T13:25:56.919Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/everything-you-need-to-know-about-gst/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/florida-sales-tax-in-a-nutshell/</loc>
+    <lastmod>2023-08-07T13:27:15.695Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/florida-sales-tax-in-a-nutshell/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/how-to-comply-with-ifrs-accounting-standards/</loc>
+    <lastmod>2023-08-14T02:57:16.889Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/how-to-comply-with-ifrs-accounting-standards/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/how-to-automate-your-expense-reporting-in-Quaderno/</loc>
+    <lastmod>2023-08-14T03:36:59.933Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/how-to-automate-your-expense-reporting-in-Quaderno/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/how-does-sales-tax-work-with-dropshipping/</loc>
+    <lastmod>2024-01-22T13:18:21.527Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/how-does-sales-tax-work-with-dropshipping/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/how-to-file-sales-tax-return/</loc>
+    <lastmod>2023-08-14T02:58:47.867Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/how-to-file-sales-tax-return/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/how-sales-tax-works/</loc>
+    <lastmod>2024-05-06T09:37:24.292Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/how-sales-tax-works/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/how-to-comply-with-gaap-in-the-us/</loc>
+    <lastmod>2023-08-14T02:57:04.778Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/how-to-comply-with-gaap-in-the-us/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/how-to-prepare-a-gst-return/</loc>
+    <lastmod>2023-08-14T03:02:56.201Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/how-to-prepare-a-gst-return/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/how-to-register-for-a-sales-tax-permit/</loc>
+    <lastmod>2023-08-14T03:04:56.233Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/how-to-register-for-a-sales-tax-permit/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/how-to-file-eu-vat-returns-in-just-a-few-minutes/</loc>
+    <lastmod>2023-08-14T02:58:14.777Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/how-to-file-eu-vat-returns-in-just-a-few-minutes/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/how-to-validate-vat-numbers-on-easy-digital-downloads/</loc>
+    <lastmod>2023-08-14T03:09:01.549Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/how-to-validate-vat-numbers-on-easy-digital-downloads/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/how-to-prepare-a-sales-tax-return/</loc>
+    <lastmod>2023-08-14T03:03:14.183Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/how-to-prepare-a-sales-tax-return/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/how-to-prepare-a-vat-return/</loc>
+    <lastmod>2023-08-14T03:03:36.923Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/how-to-prepare-a-vat-return/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/how-to-price-your-product-with-success/</loc>
+    <lastmod>2023-08-14T03:04:34.004Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/how-to-price-your-product-with-success/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/how-to-manage-tax-when-using-thinkific/</loc>
+    <lastmod>2023-08-14T03:02:38.577Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/how-to-manage-tax-when-using-thinkific/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/what-is-a-vat-number/</loc>
+    <lastmod>2023-11-22T16:07:11.393Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/what-is-a-vat-number/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/how-we-do-our-pr-in-the-age-of-information/</loc>
+    <lastmod>2024-05-06T09:49:39.916Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/how-we-do-our-pr-in-the-age-of-information/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/how-to-check-if-a-company-is-vat-registered/</loc>
+    <lastmod>2024-05-27T21:46:31.647Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/how-to-check-if-a-company-is-vat-registered/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/selling-digital-goods-complying-with-eu-vat-which-ecommerce-platforms-are-ready/</loc>
+    <lastmod>2023-09-27T09:39:49.304Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/selling-digital-goods-complying-with-eu-vat-which-ecommerce-platforms-are-ready/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/es/articulos/como-hacer-facturas-a-clientes-extranjeros/</loc>
+    <lastmod>2023-11-29T15:07:57.623Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/articulos/como-hacer-facturas-a-clientes-extranjeros/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/is-shipping-taxable-in-the-us/</loc>
+    <lastmod>2023-08-14T03:24:10.754Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/is-shipping-taxable-in-the-us/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/what-is-a-zero-rated-supply/</loc>
+    <lastmod>2023-08-14T04:36:29.120Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/what-is-a-zero-rated-supply/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/es/articulos/gana-mas-dinero-usando-factura-simplificada/</loc>
+    <lastmod>2023-12-07T17:45:07.223Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/articulos/gana-mas-dinero-usando-factura-simplificada/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/what-is-ein-how-to-get-one/</loc>
+    <lastmod>2024-01-17T12:50:33.345Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/what-is-ein-how-to-get-one/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/manage-remote-business/</loc>
+    <lastmod>2024-04-24T06:49:00.348Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/manage-remote-business/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/es/articulos/claves-para-saber-que-es-la-sepa-y-como-afectara-a-tu-negocio/</loc>
+    <lastmod>2023-12-07T18:19:45.175Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/articulos/claves-para-saber-que-es-la-sepa-y-como-afectara-a-tu-negocio/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/saas-marketing-strategies/</loc>
+    <lastmod>2024-07-25T06:51:20.976Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/saas-marketing-strategies/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/automatic-invoicing-for-sendowl/</loc>
+    <lastmod>2023-07-26T19:06:51.490Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/automatic-invoicing-for-sendowl/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/es/articulos/5-pasos-para-hacer-mejores-facturas/</loc>
+    <lastmod>2023-12-07T18:26:28.183Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/articulos/5-pasos-para-hacer-mejores-facturas/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/es/articulos/como-facturar-tus-productos-o-servicios-en-espana/</loc>
+    <lastmod>2023-12-07T18:10:50.831Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/articulos/como-facturar-tus-productos-o-servicios-en-espana/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/new-feature-checkout-form/</loc>
+    <lastmod>2023-07-26T19:05:52.340Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/new-feature-checkout-form/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/what-is-a-sales-tax/</loc>
+    <lastmod>2023-08-14T04:34:50.578Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/what-is-a-sales-tax/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/best-crm-software-small-business/</loc>
+    <lastmod>2024-06-27T12:56:52.015Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/best-crm-software-small-business/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/es/articulos/bienvenido-a-Quaderno/</loc>
+    <lastmod>2023-11-29T14:04:47.584Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/articulos/bienvenido-a-Quaderno/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/new-york-sales-tax-in-a-nutshell/</loc>
+    <lastmod>2023-08-14T03:30:47.933Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/new-york-sales-tax-in-a-nutshell/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/new-feature-tags/</loc>
+    <lastmod>2023-08-24T08:23:45.349Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/new-feature-tags/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/new-feature-custom-domains/</loc>
+    <lastmod>2023-08-04T03:05:27.431Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/new-feature-custom-domains/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/what-are-notice-report-laws-the-us/</loc>
+    <lastmod>2023-08-14T04:33:49.693Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/what-are-notice-report-laws-the-us/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/vat-gst-sales-tax-physical-products/</loc>
+    <lastmod>2024-01-24T15:38:23.003Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/vat-gst-sales-tax-physical-products/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/es/articulos/modelo-303-iva/</loc>
+    <lastmod>2024-09-05T16:32:53.811Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/articulos/modelo-303-iva/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/es/articulos/ventas-a-distancia-en-la-ue-como-hacerlo-bien/</loc>
+    <lastmod>2023-12-07T10:57:29.612Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/articulos/ventas-a-distancia-en-la-ue-como-hacerlo-bien/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/es/articulos/modelo-111-irpf/</loc>
+    <lastmod>2023-08-14T03:20:47.961Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/articulos/modelo-111-irpf/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/es/articulos/modelo-349-operaciones-intracomunitarias/</loc>
+    <lastmod>2023-08-14T03:21:30.205Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/articulos/modelo-349-operaciones-intracomunitarias/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/new-feature-new-design-for-your-invoices/</loc>
+    <lastmod>2023-08-04T03:06:30.282Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/new-feature-new-design-for-your-invoices/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/es/articulos/modelo-368-iva-digital/</loc>
+    <lastmod>2023-08-14T03:21:49.527Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/articulos/modelo-368-iva-digital/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/es/articulos/modelo-390-resumen-anual-iva/</loc>
+    <lastmod>2023-08-14T03:22:19.647Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/articulos/modelo-390-resumen-anual-iva/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/ohio-sales-tax-in-a-nutshell/</loc>
+    <lastmod>2023-12-20T10:24:22.228Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/ohio-sales-tax-in-a-nutshell/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/new-feature-multi-language-messages/</loc>
+    <lastmod>2023-08-14T03:39:57.428Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/new-feature-multi-language-messages/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/new-feature-easy-digital-downloads-integration/</loc>
+    <lastmod>2023-07-26T19:05:56.396Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/new-feature-easy-digital-downloads-integration/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/new-feature-paypal-integration/</loc>
+    <lastmod>2023-07-26T19:05:57.184Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/new-feature-paypal-integration/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/new-feature-xero-integration/</loc>
+    <lastmod>2023-08-14T03:40:52.037Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/new-feature-xero-integration/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/new-feature-woocommerce-integration/</loc>
+    <lastmod>2023-07-26T19:06:00.216Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/new-feature-woocommerce-integration/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/new-feature-tax-summary/</loc>
+    <lastmod>2023-08-07T13:28:45.507Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/new-feature-tax-summary/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/saas-burn-rate/</loc>
+    <lastmod>2023-08-14T03:26:15.354Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/saas-burn-rate/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/one-off-vs-recurring-payments-what-fits-best-for-me/</loc>
+    <lastmod>2024-04-16T12:38:38.117Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/one-off-vs-recurring-payments-what-fits-best-for-me/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/saas-businesses-indias-online-service-tax/</loc>
+    <lastmod>2024-05-15T08:22:18.160Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/saas-businesses-indias-online-service-tax/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/how-to-set-up-a-successful-sales-funnel-for-your-online-courses/</loc>
+    <lastmod>2024-06-05T08:11:59.447Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/how-to-set-up-a-successful-sales-funnel-for-your-online-courses/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/Quaderno-connect-introduction-to-our-tax-engines-apis/</loc>
+    <lastmod>2024-04-19T12:17:48.550Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/Quaderno-connect-introduction-to-our-tax-engines-apis/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/Quaderno-connect-add-great-tax-solutions-to-your-platform-or-marketplace/</loc>
+    <lastmod>2024-04-19T12:18:54.260Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/Quaderno-connect-add-great-tax-solutions-to-your-platform-or-marketplace/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/on-product-hunt-a-community-with-passion-for-curation/</loc>
+    <lastmod>2023-08-14T03:32:04.332Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/on-product-hunt-a-community-with-passion-for-curation/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/oss-or-ioss-eu-vat-one-stop-shop-rules-for-e-commerce/</loc>
+    <lastmod>2023-08-14T03:32:47.720Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/oss-or-ioss-eu-vat-one-stop-shop-rules-for-e-commerce/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/Quaderno-checkout-and-the-seamless-payment-experience/</loc>
+    <lastmod>2023-08-14T03:33:58.714Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/Quaderno-checkout-and-the-seamless-payment-experience/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/saas-income-statement/</loc>
+    <lastmod>2023-08-14T04:00:42.406Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/saas-income-statement/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/Quaderno-is-one-of-the-first-to-join-new-stripe-partner-program/</loc>
+    <lastmod>2023-08-14T03:35:11.037Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/Quaderno-is-one-of-the-first-to-join-new-stripe-partner-program/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/Quaderno-tax-reports-your-one-step-tax-prep/</loc>
+    <lastmod>2023-08-14T03:37:14.697Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/Quaderno-tax-reports-your-one-step-tax-prep/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/sales-receipts-even-easier-accounting/</loc>
+    <lastmod>2023-08-14T03:37:52.035Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/sales-receipts-even-easier-accounting/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/origin-destination-sales-tax-difference/</loc>
+    <lastmod>2023-08-14T03:53:07.937Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/origin-destination-sales-tax-difference/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/running-remote-finance-team-with-jenny-bloom-zapier-cfo/</loc>
+    <lastmod>2023-08-14T04:40:11.704Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/running-remote-finance-team-with-jenny-bloom-zapier-cfo/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/new-feature-shopify-integration/</loc>
+    <lastmod>2024-03-26T09:20:48.998Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/new-feature-shopify-integration/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/sales-tax-in-california/</loc>
+    <lastmod>2023-07-26T19:06:02.587Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/sales-tax-in-california/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/south-dakota-vs-wayfair-sales-tax/</loc>
+    <lastmod>2023-08-14T02:54:31.128Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/south-dakota-vs-wayfair-sales-tax/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/set-up-sales-tax-vat-selling-on-woocommerce/</loc>
+    <lastmod>2023-08-14T03:05:49.304Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/set-up-sales-tax-vat-selling-on-woocommerce/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/submit-vat-oss-return-non-eu-business/</loc>
+    <lastmod>2023-08-14T03:06:22.048Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/submit-vat-oss-return-non-eu-business/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/sales-tax-representatives-around-world/</loc>
+    <lastmod>2024-06-03T08:48:26.478Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/sales-tax-representatives-around-world/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/sales-taxes-for-saas-in-us/</loc>
+    <lastmod>2024-07-01T10:23:20.796Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/sales-taxes-for-saas-in-us/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/should-every-online-seller-collect-sales-tax/</loc>
+    <lastmod>2023-08-14T03:40:27.149Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/should-every-online-seller-collect-sales-tax/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/tax-planning-tips-saas-business/</loc>
+    <lastmod>2023-08-14T03:41:45.276Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/tax-planning-tips-saas-business/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/texas-sales-tax-in-a-nutshell/</loc>
+    <lastmod>2023-08-14T03:42:34.308Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/texas-sales-tax-in-a-nutshell/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/the-mvp-of-ecommerce-metrics-focus-on-these-3-equations/</loc>
+    <lastmod>2023-08-14T03:59:14.364Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/the-mvp-of-ecommerce-metrics-focus-on-these-3-equations/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/tax-debate-morals-come/</loc>
+    <lastmod>2023-08-14T04:00:19.844Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/tax-debate-morals-come/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/three-tricks-to-boost-your-business-tax-return/</loc>
+    <lastmod>2023-08-14T04:31:40.555Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/three-tricks-to-boost-your-business-tax-return/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/top-saas-financial-metrics-measure-profitability/</loc>
+    <lastmod>2024-05-28T07:32:04.358Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/top-saas-financial-metrics-measure-profitability/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/sales-tax-vs-gst-tax/</loc>
+    <lastmod>2023-08-14T04:37:18.435Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/sales-tax-vs-gst-tax/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/top-financial-metrics-saas-business/</loc>
+    <lastmod>2023-08-14T04:31:57.218Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/top-financial-metrics-saas-business/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/tax-rules-online-courses/</loc>
+    <lastmod>2024-05-30T06:54:05.767Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/tax-rules-online-courses/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/use-tax-vs-sales-tax/</loc>
+    <lastmod>2023-08-14T03:53:25.759Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/use-tax-vs-sales-tax/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/us-marketplace-facilitator-sales-tax-laws-everything-you-need-to-know/</loc>
+    <lastmod>2024-07-09T13:15:12.389Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/us-marketplace-facilitator-sales-tax-laws-everything-you-need-to-know/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/es/articulos/facturas-versus-recibos/</loc>
+    <lastmod>2023-11-29T15:13:49.410Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/articulos/facturas-versus-recibos/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/es/articulos/errores-comunes-que-solemos-cometer-al-facturar/</loc>
+    <lastmod>2023-12-07T17:59:49.437Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/articulos/errores-comunes-que-solemos-cometer-al-facturar/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/vat-number-business-europe/</loc>
+    <lastmod>2023-11-22T16:07:56.297Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/vat-number-business-europe/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/es/articulos/cuales-los-gastos-deducibles-autonomo-la-declaracion-la-renta/</loc>
+    <lastmod>2023-12-07T18:04:56.535Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/articulos/cuales-los-gastos-deducibles-autonomo-la-declaracion-la-renta/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/es/articulos/como-establecer-objetivos-para-tu-negocio-a-corto-y-largo-plazo/</loc>
+    <lastmod>2024-05-06T09:42:58.700Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/articulos/como-establecer-objetivos-para-tu-negocio-a-corto-y-largo-plazo/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/es/articulos/5-ideas-de-ingresos-pasivos-para-tu-negocio-o-como-ganar-dinero-sin-hacer-nada/</loc>
+    <lastmod>2023-12-07T04:05:41.616Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/articulos/5-ideas-de-ingresos-pasivos-para-tu-negocio-o-como-ganar-dinero-sin-hacer-nada/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/es/articulos/como-hacer-un-buen-presupuesto-para-tu-vida-como-autonomo/</loc>
+    <lastmod>2023-12-05T21:07:55.599Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/articulos/como-hacer-un-buen-presupuesto-para-tu-vida-como-autonomo/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/es/articulos/paypal-versus-stripe/</loc>
+    <lastmod>2023-08-14T03:33:29.949Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/articulos/paypal-versus-stripe/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/es/articulos/como-gestionar-los-clientes-que-pagan-tarde/</loc>
+    <lastmod>2023-12-05T21:19:37.814Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/articulos/como-gestionar-los-clientes-que-pagan-tarde/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/what-the-finance-with-martin-raisle-of-chartmogul/</loc>
+    <lastmod>2023-08-14T04:40:25.284Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/what-the-finance-with-martin-raisle-of-chartmogul/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/es/articulos/crear-un-negocio-online/</loc>
+    <lastmod>2023-08-03T19:11:54.724Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/articulos/crear-un-negocio-online/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/when-to-charge-new-zealands-gst-on-digital-products/</loc>
+    <lastmod>2023-08-14T04:41:00.478Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/when-to-charge-new-zealands-gst-on-digital-products/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/13-business-invoicing-tips-tricks-get-paid-faster/</loc>
+    <lastmod>2023-07-26T19:06:34.458Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/13-business-invoicing-tips-tricks-get-paid-faster/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/es/articulos/cosas-que-debes-saber-antes-de-trabajar-para-una-institucion-publica/</loc>
+    <lastmod>2023-07-26T19:06:30.585Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/articulos/cosas-que-debes-saber-antes-de-trabajar-para-una-institucion-publica/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/es/articulos/como-crear-un-presupuesto-ganador/</loc>
+    <lastmod>2023-12-07T01:58:22.277Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/articulos/como-crear-un-presupuesto-ganador/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/will-brexit-affect-digital-business/</loc>
+    <lastmod>2023-08-14T03:19:47.549Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/will-brexit-affect-digital-business/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/es/articulos/como-cobrar-tus-facturas-lo-antes-posible/</loc>
+    <lastmod>2023-12-07T01:59:15.902Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/articulos/como-cobrar-tus-facturas-lo-antes-posible/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/es/articulos/la-importancia-automatizar-negocio/</loc>
+    <lastmod>2024-03-04T08:49:22.097Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/articulos/la-importancia-automatizar-negocio/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/what-happens-if-you-dont-collect-sales-tax/</loc>
+    <lastmod>2024-05-31T14:49:57.256Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/what-happens-if-you-dont-collect-sales-tax/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/what-is-tax-jurisdiction/</loc>
+    <lastmod>2024-04-08T12:59:27.860Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/what-is-tax-jurisdiction/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/es/articulos/ventajas-y-desventajas-de-los-diferentes-metodos-de-pago/</loc>
+    <lastmod>2024-04-19T09:31:14.855Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/articulos/ventajas-y-desventajas-de-los-diferentes-metodos-de-pago/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/es/articulos/como-aplicar-el-iva-en-las-facturas-a-clientes-de-la-union-europea/</loc>
+    <lastmod>2024-10-04T13:02:57.570Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/articulos/como-aplicar-el-iva-en-las-facturas-a-clientes-de-la-union-europea/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/es/articulos/7-metricas-que-te-ayudaran-a-mejorar-tu-negocio/</loc>
+    <lastmod>2023-12-07T02:48:22.001Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/articulos/7-metricas-que-te-ayudaran-a-mejorar-tu-negocio/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/es/articulos/5-razones-para-despedir-a-un-cliente-toxico/</loc>
+    <lastmod>2023-12-07T03:00:57.035Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/articulos/5-razones-para-despedir-a-un-cliente-toxico/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/Quaderno-taxjar-avalara-stripe-tax-comparison/</loc>
+    <lastmod>2024-03-18T13:11:18.671Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/Quaderno-taxjar-avalara-stripe-tax-comparison/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/es/articulos/aplicar-igic-tus-facturas-desde-canarias/</loc>
+    <lastmod>2023-12-07T05:39:41.091Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/articulos/aplicar-igic-tus-facturas-desde-canarias/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/digital-consultants-guide-to-sales-tax-vat-and-gst/</loc>
+    <lastmod>2023-08-07T13:11:33.310Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/digital-consultants-guide-to-sales-tax-vat-and-gst/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/is-hacker-news-a-good-platform-to-launch-your-product/</loc>
+    <lastmod>2023-08-14T02:48:27.466Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/is-hacker-news-a-good-platform-to-launch-your-product/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/how-Quaderno-complies-with-gdpr/</loc>
+    <lastmod>2024-05-03T07:21:51.521Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/how-Quaderno-complies-with-gdpr/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/new-feature-braintree-integration/</loc>
+    <lastmod>2023-07-26T19:06:41.733Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/new-feature-braintree-integration/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/fulfillment-amazon-fba-accounting/</loc>
+    <lastmod>2024-01-24T15:37:52.360Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/fulfillment-amazon-fba-accounting/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/new-feature-memberpress-integration/</loc>
+    <lastmod>2023-07-26T19:06:46.137Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/new-feature-memberpress-integration/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/Quaderno-and-square-integration-takes-your-store-the-next-level/</loc>
+    <lastmod>2023-08-14T03:59:28.379Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/Quaderno-and-square-integration-takes-your-store-the-next-level/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/new-feature-customer-location-evidences/</loc>
+    <lastmod>2023-07-26T19:06:46.904Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/new-feature-customer-location-evidences/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/what-is-drop-surfing/</loc>
+    <lastmod>2023-08-14T04:36:39.419Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/what-is-drop-surfing/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/sales-tax-in-maryland-in-a-nutshell/</loc>
+    <lastmod>2023-08-14T03:30:37.853Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/sales-tax-in-maryland-in-a-nutshell/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/official-integration-Quaderno-shopify/</loc>
+    <lastmod>2024-03-26T09:13:45.831Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/official-integration-Quaderno-shopify/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/new-feature-thinkific-integration/</loc>
+    <lastmod>2023-07-26T19:06:55.464Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/new-feature-thinkific-integration/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/get-paid-time-simple-guide-optimising-cash-flow/</loc>
+    <lastmod>2024-06-17T11:07:49.878Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/get-paid-time-simple-guide-optimising-cash-flow/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/es/articulos/lo-que-debes-saber-sobre-el-iva-de-la-ue-si-tienes-clientes-en-europa/</loc>
+    <lastmod>2023-12-07T05:54:29.947Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/articulos/lo-que-debes-saber-sobre-el-iva-de-la-ue-si-tienes-clientes-en-europa/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/es/articulos/impuestos-digitales-traves-del-mundo/</loc>
+    <lastmod>2023-08-14T03:29:46.984Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/articulos/impuestos-digitales-traves-del-mundo/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/es/articulos/como-obtener-un-numero-de-iva-si-tu-empresa-no-tiene-su-sede-en-europa/</loc>
+    <lastmod>2023-12-07T05:24:48.557Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/articulos/como-obtener-un-numero-de-iva-si-tu-empresa-no-tiene-su-sede-en-europa/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/es/articulos/facturar-el-blog-legalmente/</loc>
+    <lastmod>2023-12-07T05:14:58.215Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/articulos/facturar-el-blog-legalmente/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/es/articulos/iva-para-saas-en-eeuu/</loc>
+    <lastmod>2023-12-07T18:33:05.311Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/articulos/iva-para-saas-en-eeuu/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/es/articulos/numero-de-iva-vat-number-en-woocommerce/</loc>
+    <lastmod>2023-12-07T05:03:42.436Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/articulos/numero-de-iva-vat-number-en-woocommerce/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/es/articulos/modelo-420-igic/</loc>
+    <lastmod>2024-04-19T09:26:19.892Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/articulos/modelo-420-igic/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/es/articulos/esta-tu-negocio-preparado-para-la-nueva-ley-europea-de-iva/</loc>
+    <lastmod>2023-08-07T13:25:06.250Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/articulos/esta-tu-negocio-preparado-para-la-nueva-ley-europea-de-iva/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/es/articulos/como-cumple-Quaderno-con-el-rgpd/</loc>
+    <lastmod>2023-08-03T19:13:18.398Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/articulos/como-cumple-Quaderno-con-el-rgpd/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/es/articulos/modelo-130-irpf/</loc>
+    <lastmod>2024-11-08T12:17:21.692Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/articulos/modelo-130-irpf/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/which-us-states-hold-sales-tax-holidays/</loc>
+    <lastmod>2023-08-14T04:41:33.566Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/which-us-states-hold-sales-tax-holidays/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/amazon-fba-locations/</loc>
+    <lastmod>2023-07-26T19:20:36.921Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/amazon-fba-locations/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/is-there-sales-tax-in-every-state/</loc>
+    <lastmod>2023-08-14T03:24:38.261Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/is-there-sales-tax-in-every-state/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/how-to-grow-your-freelance-business-in-5-simple-steps/</loc>
+    <lastmod>2024-07-12T08:32:59.708Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/how-to-grow-your-freelance-business-in-5-simple-steps/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/category/accounting/</loc>
+    <lastmod>2023-06-30T15:55:08.690Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/category/accounting/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/articulos/categoria/contabilidad/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/category/business/</loc>
+    <lastmod>2023-06-30T15:55:28.900Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/category/business/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/articulos/categoria/negocio/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/category/product/</loc>
+    <lastmod>2023-06-30T15:56:01.476Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/category/product/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/articulos/categoria/producto/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/category/taxes/</loc>
+    <lastmod>2023-06-30T15:56:21.876Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/category/taxes/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/articulos/categoria/impuestos/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/blog/category/electronic-invoicing/</loc>
+    <lastmod>2024-02-19T15:39:24.565Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/blog/category/electronic-invoicing/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/articulos/categoria/facturacion-electronica/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/</loc>
+    <lastmod>2024-11-08T12:40:45.558Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/worldwide-tax-guides/</loc>
+    <lastmod>2024-11-08T12:40:45.558Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/worldwide-tax-guides/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/registration-filing/</loc>
+    <lastmod>2024-11-08T12:40:45.558Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/registration-filing/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/afghanistan-vat-guide/</loc>
+    <lastmod>2023-05-10T18:40:35.983Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/afghanistan-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/alabama-sales-tax-guide/</loc>
+    <lastmod>2023-05-10T18:40:36.873Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/alabama-sales-tax-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/alaska-sales-tax-guide/</loc>
+    <lastmod>2023-05-10T18:40:37.342Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/alaska-sales-tax-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/albania-vat-guide/</loc>
+    <lastmod>2023-05-10T18:40:37.824Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/albania-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/algeria-vat-guide/</loc>
+    <lastmod>2023-09-13T16:55:45.404Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/algeria-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/angola-vat-guide/</loc>
+    <lastmod>2023-05-10T18:40:39.027Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/angola-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/argentina-vat-guide/</loc>
+    <lastmod>2023-05-10T18:40:39.540Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/argentina-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/arizona-sales-tax-guide/</loc>
+    <lastmod>2023-05-10T18:40:40.009Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/arizona-sales-tax-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/arkansas-sales-tax-guide/</loc>
+    <lastmod>2023-05-10T18:40:40.525Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/arkansas-sales-tax-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/armenia-vat-guide/</loc>
+    <lastmod>2023-05-10T18:40:41.101Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/armenia-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/bahamas-vat-guide/</loc>
+    <lastmod>2023-09-14T17:00:52.576Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/bahamas-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/australia-gst-guide/</loc>
+    <lastmod>2024-07-04T14:08:25.326Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/australia-gst-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/bangladesh-vat-guide/</loc>
+    <lastmod>2023-05-10T18:40:43.571Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/bangladesh-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/belarus-vat-guide/</loc>
+    <lastmod>2023-05-10T18:40:44.008Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/belarus-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/bulgaria-vat-guide/</loc>
+    <lastmod>2023-05-10T18:40:45.531Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/bulgaria-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/cambodia-vat-guide/</loc>
+    <lastmod>2023-05-10T18:40:46.430Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/cambodia-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/cameroon-vat-guide/</loc>
+    <lastmod>2023-05-10T18:40:46.895Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/cameroon-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/canada-gst-hst-guide/</loc>
+    <lastmod>2023-05-10T18:40:47.343Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/canada-gst-hst-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/colombia-vat-guide/</loc>
+    <lastmod>2023-05-10T18:40:48.302Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/colombia-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/connecticut-sales-tax-guide/</loc>
+    <lastmod>2023-05-10T18:40:49.306Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/connecticut-sales-tax-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/costa-rica-vat-guide/</loc>
+    <lastmod>2023-05-10T18:40:49.711Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/costa-rica-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/cote-divoire-vat-guide/</loc>
+    <lastmod>2023-05-10T18:40:50.134Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/cote-divoire-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/kentucky-sales-tax-guide/</loc>
+    <lastmod>2023-05-10T18:41:05.185Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/kentucky-sales-tax-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/austria-vat-guide/</loc>
+    <lastmod>2023-08-24T07:47:23.213Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/austria-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/cyprus-vat-guide/</loc>
+    <lastmod>2023-08-24T07:51:34.609Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/cyprus-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/croatia-vat-guide/</loc>
+    <lastmod>2023-08-24T07:52:22.033Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/croatia-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/belgium-vat-guide/</loc>
+    <lastmod>2023-08-30T12:09:43.904Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/belgium-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/california-sales-tax-guide/</loc>
+    <lastmod>2023-09-19T11:46:24.665Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/california-sales-tax-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/colorado-sales-tax-guide/</loc>
+    <lastmod>2023-09-19T11:54:53.876Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/colorado-sales-tax-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/chile-vat-guide/</loc>
+    <lastmod>2023-09-19T12:25:08.018Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/chile-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/delaware-sales-tax-guide/</loc>
+    <lastmod>2023-05-10T18:40:52.254Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/delaware-sales-tax-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/bahrain-vat-guide/</loc>
+    <lastmod>2023-09-15T17:38:05.109Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/bahrain-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/dominican-republic-vat-guide/</loc>
+    <lastmod>2023-05-10T18:40:53.186Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/dominican-republic-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/ecuador-vat-guide/</loc>
+    <lastmod>2023-05-10T18:40:53.625Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/ecuador-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/egypt-vat-guide/</loc>
+    <lastmod>2023-05-10T18:40:54.120Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/egypt-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/kansas-sales-tax-guide/</loc>
+    <lastmod>2024-03-26T12:53:08.336Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/kansas-sales-tax-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/indiana-sales-tax-guide/</loc>
+    <lastmod>2024-03-26T12:55:36.435Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/indiana-sales-tax-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/japan-vat-guide/</loc>
+    <lastmod>2024-07-15T07:55:48.187Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/japan-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/hawaii-sales-tax-guide/</loc>
+    <lastmod>2023-05-10T18:40:58.789Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/hawaii-sales-tax-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/idaho-sales-tax-guide/</loc>
+    <lastmod>2023-05-10T18:41:00.047Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/idaho-sales-tax-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/india-gst-guide/</loc>
+    <lastmod>2023-05-10T18:41:00.991Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/india-gst-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/iowa-sales-tax-guide/</loc>
+    <lastmod>2023-05-10T18:41:02.363Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/iowa-sales-tax-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/kazakhstan-vat-guide/</loc>
+    <lastmod>2023-05-10T18:41:04.710Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/kazakhstan-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/ghana-vat-guide/</loc>
+    <lastmod>2023-08-21T11:15:26.976Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/ghana-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/greece-vat-guide/</loc>
+    <lastmod>2023-08-24T06:57:16.849Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/greece-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/ireland-vat-guide/</loc>
+    <lastmod>2023-08-24T07:18:01.331Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/ireland-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/estonia-vat-guide/</loc>
+    <lastmod>2023-08-24T07:27:13.459Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/estonia-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/hungary-vat-guide/</loc>
+    <lastmod>2023-08-24T07:45:36.038Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/hungary-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/denmark-vat-guide/</loc>
+    <lastmod>2023-08-24T07:49:30.042Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/denmark-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/finland-vat-guide/</loc>
+    <lastmod>2023-08-24T07:59:56.230Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/finland-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/italy-vat-guide/</loc>
+    <lastmod>2023-08-30T12:12:13.315Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/italy-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/florida-sales-tax-guide/</loc>
+    <lastmod>2023-09-19T11:58:23.628Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/florida-sales-tax-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/georgia-sales-tax-guide/</loc>
+    <lastmod>2023-09-19T12:00:04.065Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/georgia-sales-tax-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/illinois-sales-tax-guide/</loc>
+    <lastmod>2023-09-19T12:03:02.282Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/illinois-sales-tax-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/iceland-vat-guide/</loc>
+    <lastmod>2023-09-19T12:19:58.750Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/iceland-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/kenya-vat-guide/</loc>
+    <lastmod>2023-05-10T18:41:05.579Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/kenya-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/kosovo-vat-guide/</loc>
+    <lastmod>2023-05-10T18:41:06.028Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/kosovo-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/kyrgyzstan-vat-guide/</loc>
+    <lastmod>2023-05-10T18:41:06.476Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/kyrgyzstan-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/indonesia-vat-guide/</loc>
+    <lastmod>2023-09-16T13:52:43.721Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/indonesia-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/louisiana-sales-tax-guide/</loc>
+    <lastmod>2024-01-30T11:27:53.111Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/louisiana-sales-tax-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/mozambique-vat-guide/</loc>
+    <lastmod>2024-07-05T07:58:44.977Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/mozambique-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/maine-sales-tax-guide/</loc>
+    <lastmod>2023-05-10T18:41:09.675Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/maine-sales-tax-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/malaysia-gst-guide/</loc>
+    <lastmod>2023-05-10T18:41:10.100Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/malaysia-gst-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/maldives-gst-guide/</loc>
+    <lastmod>2023-05-10T18:41:10.613Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/maldives-gst-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/manitoba-rst-guide/</loc>
+    <lastmod>2023-05-10T18:41:12.014Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/manitoba-rst-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/maryland-sales-tax-guide/</loc>
+    <lastmod>2023-05-10T18:41:12.509Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/maryland-sales-tax-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/mexico-vat-guide/</loc>
+    <lastmod>2023-05-10T18:41:13.536Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/mexico-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/michigan-sales-tax-guide/</loc>
+    <lastmod>2023-05-10T18:41:14.002Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/michigan-sales-tax-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/minnesota-sales-tax-guide/</loc>
+    <lastmod>2023-05-10T18:41:14.605Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/minnesota-sales-tax-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/mississippi-sales-tax-guide/</loc>
+    <lastmod>2023-05-10T18:41:15.083Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/mississippi-sales-tax-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/missouri-sales-tax-guide/</loc>
+    <lastmod>2023-05-10T18:41:15.603Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/missouri-sales-tax-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/moldova-vat-guide/</loc>
+    <lastmod>2023-05-10T18:41:16.081Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/moldova-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/montana-sales-tax-guide/</loc>
+    <lastmod>2023-05-10T18:41:16.621Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/montana-sales-tax-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/nebraska-sales-tax-guide/</loc>
+    <lastmod>2023-05-10T18:41:17.639Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/nebraska-sales-tax-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/nepal-vat-guide/</loc>
+    <lastmod>2023-05-10T18:41:18.070Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/nepal-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/nevada-sales-tax-guide/</loc>
+    <lastmod>2023-05-10T18:41:19.021Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/nevada-sales-tax-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/luxembourg-vat-guide/</loc>
+    <lastmod>2023-08-24T07:44:05.350Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/luxembourg-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/lithuania-vat-guide/</loc>
+    <lastmod>2023-08-30T12:19:36.832Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/lithuania-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/latvia-vat-guide/</loc>
+    <lastmod>2023-08-30T12:21:43.677Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/latvia-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/massachusetts-sales-tax-guide/</loc>
+    <lastmod>2023-09-19T12:14:18.189Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/massachusetts-sales-tax-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/new-hampshire-sales-tax-guide/</loc>
+    <lastmod>2023-05-10T18:41:19.599Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/new-hampshire-sales-tax-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/new-mexico-sales-tax-guide/</loc>
+    <lastmod>2023-05-10T18:41:20.531Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/new-mexico-sales-tax-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/laos-vat-guide/</loc>
+    <lastmod>2023-09-16T14:03:10.085Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/laos-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/north-carolina-sales-tax-guide/</loc>
+    <lastmod>2024-07-12T11:20:21.202Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/north-carolina-sales-tax-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/north-dakota-sales-tax-guide/</loc>
+    <lastmod>2023-05-10T18:41:23.091Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/north-dakota-sales-tax-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/ohio-sales-tax-guide/</loc>
+    <lastmod>2023-05-10T18:41:24.105Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/ohio-sales-tax-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/oklahoma-sales-tax-guide/</loc>
+    <lastmod>2023-05-10T18:41:24.573Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/oklahoma-sales-tax-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/oregon-sales-tax-guide/</loc>
+    <lastmod>2023-05-10T18:41:25.038Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/oregon-sales-tax-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/paraguay-vat-guide/</loc>
+    <lastmod>2023-05-10T18:41:25.541Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/paraguay-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/puerto-rico-sales-tax-guide/</loc>
+    <lastmod>2023-05-10T18:41:29.615Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/puerto-rico-sales-tax-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/rhode-island-sales-tax-guide/</loc>
+    <lastmod>2023-05-10T18:41:30.650Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/rhode-island-sales-tax-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/poland-vat-guide/</loc>
+    <lastmod>2023-08-30T12:11:19.642Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/poland-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/new-jersey-sales-tax-guide/</loc>
+    <lastmod>2023-09-19T12:05:27.496Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/new-jersey-sales-tax-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/new-york-sales-tax-guide/</loc>
+    <lastmod>2023-09-19T12:06:50.309Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/new-york-sales-tax-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/quebec-qst-guide/</loc>
+    <lastmod>2023-09-19T12:17:17.388Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/quebec-qst-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/norway-vat-guide/</loc>
+    <lastmod>2023-09-19T12:20:45.548Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/norway-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/new-zealand-gst-guide/</loc>
+    <lastmod>2023-09-19T12:27:08.927Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/new-zealand-gst-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/philippines-vat-guide/</loc>
+    <lastmod>2023-11-29T01:33:54.761Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/philippines-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/switzerland-vat-guide/</loc>
+    <lastmod>2024-02-22T07:02:13.397Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/switzerland-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/saudi-arabia-vat-guide/</loc>
+    <lastmod>2023-05-10T18:41:32.541Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/saudi-arabia-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/serbia-vat-guide/</loc>
+    <lastmod>2023-05-10T18:41:33.032Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/serbia-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/singapore-gst-guide/</loc>
+    <lastmod>2023-05-10T18:41:33.501Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/singapore-gst-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/texas-sales-tax-guide/</loc>
+    <lastmod>2024-07-01T10:16:38.618Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/texas-sales-tax-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/south-africa-vat-guide/</loc>
+    <lastmod>2023-05-10T18:41:34.949Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/south-africa-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/south-carolina-sales-tax-guide/</loc>
+    <lastmod>2023-05-10T18:41:35.475Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/south-carolina-sales-tax-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/south-dakota-sales-tax-guide/</loc>
+    <lastmod>2023-05-10T18:41:35.938Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/south-dakota-sales-tax-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/vermont-sales-tax-guide/</loc>
+    <lastmod>2024-07-01T11:11:28.318Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/vermont-sales-tax-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/spain-vat-guide/</loc>
+    <lastmod>2024-07-04T14:09:05.231Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/spain-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/sri-lanka-vat-guide/</loc>
+    <lastmod>2023-05-10T18:41:37.615Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/sri-lanka-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/tennessee-sales-tax-guide/</loc>
+    <lastmod>2023-05-10T18:41:39.926Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/tennessee-sales-tax-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/thailand-vat-guide/</loc>
+    <lastmod>2023-05-10T18:41:40.903Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/thailand-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/uganda-vat-guide/</loc>
+    <lastmod>2023-05-10T18:41:42.407Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/uganda-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/united-arab-emirates-vat-guide/</loc>
+    <lastmod>2023-05-10T18:41:43.279Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/united-arab-emirates-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/utah-sales-tax-guide/</loc>
+    <lastmod>2023-05-10T18:41:44.105Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/utah-sales-tax-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/washington-dc-sales-tax-guide/</loc>
+    <lastmod>2023-05-10T18:41:46.209Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/washington-dc-sales-tax-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/sweden-vat-guide/</loc>
+    <lastmod>2023-08-30T12:07:17.735Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/sweden-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/slovakia-vat-guide/</loc>
+    <lastmod>2023-08-30T12:07:56.266Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/slovakia-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/romania-vat-guide/</loc>
+    <lastmod>2023-08-30T12:08:26.538Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/romania-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/virginia-sales-tax-guide/</loc>
+    <lastmod>2023-09-19T12:13:09.413Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/virginia-sales-tax-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/russia-vat-guide/</loc>
+    <lastmod>2023-09-19T12:22:10.130Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/russia-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/united-kingdom-vat-guide/</loc>
+    <lastmod>2023-09-19T12:24:08.965Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/united-kingdom-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/turkey-vat-guide/</loc>
+    <lastmod>2023-09-19T12:26:03.923Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/turkey-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/south-korea-vat-guide/</loc>
+    <lastmod>2023-09-19T12:28:32.223Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/south-korea-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/taiwan-vat-guide/</loc>
+    <lastmod>2023-09-19T12:30:18.048Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/taiwan-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/west-virginia-sales-tax-guide/</loc>
+    <lastmod>2023-05-10T18:41:47.138Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/west-virginia-sales-tax-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/wisconsin-sales-tax-guide/</loc>
+    <lastmod>2023-05-10T18:41:47.521Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/wisconsin-sales-tax-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/registration-filing/new-jersey/</loc>
+    <lastmod>2023-11-03T13:10:32.561Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/registration-filing/new-jersey/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/registration-filing/new-york/</loc>
+    <lastmod>2023-11-03T13:18:27.461Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/registration-filing/new-york/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/registration-filing/new-zealand/</loc>
+    <lastmod>2023-11-03T13:25:45.396Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/registration-filing/new-zealand/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/registration-filing/north-carolina/</loc>
+    <lastmod>2023-11-03T13:30:02.631Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/registration-filing/north-carolina/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/registration-filing/norway/</loc>
+    <lastmod>2023-11-03T13:32:48.552Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/registration-filing/norway/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/registration-filing/pennsylvania/</loc>
+    <lastmod>2023-11-03T13:34:58.714Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/registration-filing/pennsylvania/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/registration-filing/quebec/</loc>
+    <lastmod>2023-11-03T13:40:27.203Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/registration-filing/quebec/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/registration-filing/russia/</loc>
+    <lastmod>2023-11-03T13:42:11.434Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/registration-filing/russia/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/registration-filing/saskatchewan/</loc>
+    <lastmod>2023-11-03T13:46:53.897Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/registration-filing/saskatchewan/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/zimbabwe-vat-guide/</loc>
+    <lastmod>2023-08-21T11:47:47.152Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/zimbabwe-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/registration-filing/south-korea/</loc>
+    <lastmod>2023-11-03T13:52:11.742Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/registration-filing/south-korea/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/washington-sales-tax-guide/</loc>
+    <lastmod>2023-09-19T12:10:48.579Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/washington-sales-tax-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/registration-filing/colorado/</loc>
+    <lastmod>2023-11-03T10:28:48.212Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/registration-filing/colorado/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/registration-filing/florida/</loc>
+    <lastmod>2023-11-03T10:56:03.403Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/registration-filing/florida/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/registration-filing/georgia/</loc>
+    <lastmod>2023-11-03T11:02:11.090Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/registration-filing/georgia/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/registration-filing/iceland/</loc>
+    <lastmod>2023-11-03T12:51:47.309Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/registration-filing/iceland/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/registration-filing/illinois/</loc>
+    <lastmod>2023-11-03T12:58:32.757Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/registration-filing/illinois/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/registration-filing/texas/</loc>
+    <lastmod>2023-11-03T14:00:39.003Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/registration-filing/texas/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/registration-filing/turkey/</loc>
+    <lastmod>2023-11-03T14:16:30.647Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/registration-filing/turkey/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/registration-filing/washington/</loc>
+    <lastmod>2023-11-03T14:22:33.029Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/registration-filing/washington/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/registration-filing/australia/</loc>
+    <lastmod>2023-11-03T14:25:38.211Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/registration-filing/australia/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/registration-filing/california/</loc>
+    <lastmod>2023-11-03T14:33:37.565Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/registration-filing/california/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/registration-filing/chile/</loc>
+    <lastmod>2023-11-03T14:36:37.289Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/registration-filing/chile/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/registration-filing/british-columbia/</loc>
+    <lastmod>2024-07-23T11:54:05.250Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/registration-filing/british-columbia/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/registration-filing/taiwan/</loc>
+    <lastmod>2023-11-03T13:54:30.287Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/registration-filing/taiwan/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/czech-republic-vat-guide/</loc>
+    <lastmod>2023-08-24T07:02:41.630Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/czech-republic-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/israel-vat-guide/</loc>
+    <lastmod>2023-08-11T21:18:17.169Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/israel-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/registration-filing/eu/</loc>
+    <lastmod>2023-11-03T14:04:38.688Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/registration-filing/eu/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/france-vat-guide/</loc>
+    <lastmod>2023-08-09T08:08:52.326Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/france-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/registration-filing/virginia/</loc>
+    <lastmod>2023-11-03T14:14:07.631Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/registration-filing/virginia/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/bolivia-vat-guide/</loc>
+    <lastmod>2023-08-11T10:14:01.408Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/bolivia-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/registration-filing/arizona/</loc>
+    <lastmod>2023-11-03T10:48:11.911Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/registration-filing/arizona/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/germany-vat-guide/</loc>
+    <lastmod>2023-08-24T07:59:13.750Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/germany-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/portugal-vat-guide/</loc>
+    <lastmod>2023-08-30T12:08:47.516Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/portugal-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/senegal-vat-guide/</loc>
+    <lastmod>2024-07-12T10:49:18.335Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/senegal-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/netherlands-vat-guide/</loc>
+    <lastmod>2023-08-30T12:09:04.502Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/netherlands-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/malta-vat-guide/</loc>
+    <lastmod>2023-08-30T12:11:45.504Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/malta-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/pennsylvania-sales-tax-guide/</loc>
+    <lastmod>2023-09-19T12:11:57.927Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/pennsylvania-sales-tax-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/british-columbia-pst-guide/</loc>
+    <lastmod>2023-09-19T12:15:42.214Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/british-columbia-pst-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/saskatchewan-pst-guide/</loc>
+    <lastmod>2023-09-19T12:18:34.319Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/saskatchewan-pst-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/registration-filing/massachusetts/</loc>
+    <lastmod>2023-11-03T13:03:18.393Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/registration-filing/massachusetts/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/suriname-vat-guide/</loc>
+    <lastmod>2023-09-16T14:52:46.401Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/suriname-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/slovenia-vat-guide/</loc>
+    <lastmod>2023-10-10T06:56:08.671Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/slovenia-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/tunisia-vat-guide/</loc>
+    <lastmod>2023-09-16T15:03:31.567Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/tunisia-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/oman-vat-guide/</loc>
+    <lastmod>2023-08-11T21:19:01.495Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/oman-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/registration-filing/uk/</loc>
+    <lastmod>2024-07-23T11:54:33.027Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/registration-filing/uk/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/vietnam-vat-guide/</loc>
+    <lastmod>2023-09-16T15:02:58.861Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/vietnam-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/ukraine-vat-guide/</loc>
+    <lastmod>2023-09-16T15:25:13.019Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/ukraine-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/uzbekistan-vat-guide/</loc>
+    <lastmod>2023-09-16T15:33:46.778Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/uzbekistan-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/nigeria-vat-guide/</loc>
+    <lastmod>2024-01-02T13:13:38.858Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/nigeria-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/morocco-vat-guide/</loc>
+    <lastmod>2024-05-17T16:01:22.515Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/morocco-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/wyoming-sales-tax-guide/</loc>
+    <lastmod>2024-07-01T11:29:47.770Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/wyoming-sales-tax-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/jordan-gst-guide/</loc>
+    <lastmod>2024-07-05T06:53:49.441Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/jordan-gst-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/zambia-vat-guide/</loc>
+    <lastmod>2024-07-05T08:00:56.365Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/zambia-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/san-francisco-sales-tax/</loc>
+    <lastmod>2024-08-23T15:08:31.536Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/san-francisco-sales-tax/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/los-angeles-sales-tax/</loc>
+    <lastmod>2024-08-21T17:03:20.951Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/los-angeles-sales-tax/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/seattle-sales-tax/</loc>
+    <lastmod>2024-08-23T15:23:15.891Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/seattle-sales-tax/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/madagascar-vat-guide/</loc>
+    <lastmod>2024-07-12T10:55:54.654Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/madagascar-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/drc-vat-guide/</loc>
+    <lastmod>2024-07-12T10:56:39.084Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/drc-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/guinea-vat-guide/</loc>
+    <lastmod>2024-07-12T10:59:44.511Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/guinea-vat-guide/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/austin-sales-tax/</loc>
+    <lastmod>2024-08-23T14:55:57.099Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/austin-sales-tax/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/boston-sales-tax/</loc>
+    <lastmod>2024-08-23T15:05:50.005Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/boston-sales-tax/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/eu-vat/</loc>
+    <lastmod>2023-12-11T16:50:15.656Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/eu-vat/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/shopify-sales-tax/</loc>
+    <lastmod>2024-04-03T09:38:17.681Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/shopify-sales-tax/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/sales-tax-online-courses/</loc>
+    <lastmod>2024-01-24T15:40:37.194Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/sales-tax-online-courses/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/woocommerce-sales-tax/</loc>
+    <lastmod>2024-03-18T13:15:15.289Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/woocommerce-sales-tax/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/amazon-sales-tax/</loc>
+    <lastmod>2024-03-22T11:47:15.627Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/amazon-sales-tax/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/sales-tax-digital-goods/</loc>
+    <lastmod>2024-05-10T16:31:37.181Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/sales-tax-digital-goods/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/us-economic-nexus/</loc>
+    <lastmod>2024-05-27T21:50:04.477Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/us-economic-nexus/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/sales-tax-saas/</loc>
+    <lastmod>2024-07-01T10:19:02.563Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/sales-tax-saas/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/guides/automate-taxes/</loc>
+    <lastmod>2024-08-20T12:34:55.702Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Quaderno.io/guides/automate-taxes/" />
+  </url>
+  <url>
+    <loc>https://Quaderno.io/es/api/ticketbai/</loc>
+    <lastmod>2024-11-08T12:40:45.558Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://Quaderno.io/es/api/ticketbai/" />
+  </url>
+</urlset>
