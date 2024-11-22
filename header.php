@@ -35,7 +35,7 @@
               <li><a class="dropdown-item" href="<?php echo SAAS_URL ?>">SaaS</a></li>
               <li><a class="dropdown-item" href="<?php echo PLATFOR_URL ?>">Platforms & Marketplaces</a></li>
               <li><a class="dropdown-item" href="<?php echo Customer_URL ?>">Customer stories</a></li>
-              <li><a class="dropdown-item" href="<?php echo CONTACT_URL ?>">Let's talk</a></li>
+              <li><a class="dropdown-item" href="<?php echo Cont_specia_URL ?>">Let's talk</a></li>
             </ul>
           </li>
 
@@ -44,7 +44,7 @@
             Resources
             </a>
             <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-              <li><a class="dropdown-item" href="<?php echo BLOG_URL ?>">The Quaderno Blog</a></li>
+              <li><a class="dropdown-item" href="<?php echo BLOG_URL ?>">The Suvae Blog</a></li>
               <li><a class="dropdown-item" href="<?php echo guides_URL ?>">Tax guides</a></li>
               <li><a class="dropdown-item" href="#">Developers</a></li>
               <li><a class="dropdown-item" href="#">Help & Support</a></li>

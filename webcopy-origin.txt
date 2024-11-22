@@ -6866,8 +6866,8 @@ Uri: https://Quaderno.io/use-cases/digital-entrepreneurs/
 File Name: C:\xampp\htdocs\latestquad\Quaderno.io\use-cases\digital-entrepreneurs\index.htm
 Content Type: text/html
 
-Uri: https://Quaderno.io/_astro/about-quaderno.CNUAmwAE.css
-File Name: C:\xampp\htdocs\latestquad\Quaderno.io\_astro\about-quaderno.CNUAmwAE.css
+Uri: https://Quaderno.io/_astro/about-Quaderno.CNUAmwAE.css
+File Name: C:\xampp\htdocs\latestquad\Quaderno.io\_astro\about-Quaderno.CNUAmwAE.css
 Content Type: text/css
 
 Uri: https://Quaderno.io/_astro/hoisted.BLVjHnEs.js
