@@ -1,6 +1,6 @@
 <?php
 // Define base URLs for different assets
-define('TIT_URL', 'https://suvae.net/test.png');
+define('TIT_URL', 'https://suvae.net/suvaefavicon2.png');
 define('TIT', 'Suvae | Amazon Reviews');
 define('LOGO_URL', 'https://suvae.net/BlackLogo.svg');
 define('home_URL', 'https://suvae.net/index.php');
