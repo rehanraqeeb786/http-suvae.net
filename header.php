@@ -59,8 +59,8 @@
           </div>
     </div>
     <div class="collapse navbar-collapse align-items-center" id="navbarSupportedContent">
-        <button class="btn" style="padding: 5px 30px; color: rgb(0, 0, 0); border-radius: 20px; border: 1px solid #000;" type="submit">Log in</button>&nbsp;&nbsp;
-        <button class="btn" style="padding: 5px 10px; background-color: black; color: white; border-radius: 20px;" type="submit">Try it for free</button>
+        <a href="<?php echo Cont_specia_URL ?>"><button class="btn" style="padding: 5px 30px; color: rgb(0, 0, 0); border-radius: 20px; border: 1px solid #000;" type="submit">Log in</button></a>&nbsp;&nbsp;
+        <a href="<?php echo Cont_specia_URL ?>"><button class="btn" style="padding: 5px 10px; background-color: black; color: white; border-radius: 20px;" type="submit">Try it for free</button></a>
     </div>
   </div>
 </nav>
