@@ -46,8 +46,7 @@
             <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
               <li><a class="dropdown-item" href="<?php echo BLOG_URL ?>">The Suvae Blog</a></li>
               <li><a class="dropdown-item" href="<?php echo guides_URL ?>">Tax guides</a></li>
-              <li><a class="dropdown-item" href="#">Developers</a></li>
-              <li><a class="dropdown-item" href="#">Help & Support</a></li>
+              <li><a class="dropdown-item" href="<?php echo Cont_specia_URL ?>">Help & Support</a></li>
               <li><a class="dropdown-item" href="<?php echo sales_URL ?>">Sales tax calculator</a></li>
               <li><a class="dropdown-item" href="<?php echo worldwide_URL ?>">Worldwide Tax Guides</a></li>
             </ul>
